@@ -9,4 +9,6 @@ Nele podem ser gerados:
 - Cidades
 - Estados
 
+O script principal do sistema que deve ser executado é - app.py.
+
 <h3>Autor: Marcio Maia</h3>
