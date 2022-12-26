@@ -12,17 +12,17 @@ O sistema irá gerar dados aleatorios apenas para teste de funcionamento.
 
 Se gostou do sistema, entra em contato!
 
-##############################################
+###########################################################
 
-|--------------------------------------------|
-|          Autor - [bold][underline]Marcio Maia[/][/]               |
-|*****************[bold]Contatos[/]*******************|
-| [bold magenta]E-mail:[/] marciojesusmaia@hotmail.com        |
-| [bold cyan]Linkedin:[/] https://www.linkedin.com/in/marciojesusmaia/ |
-| [bold green]Telefone/Whatsapp:[/] 55 85 98614-9863        |
-|--------------------------------------------|
+|---------------------------------------------------------|
+|          Autor - [bold][underline]Marcio Maia[/][/]                            |
+|***********************[bold]Contatos[/]**************************|
+| [bold magenta]E-mail:[/] marciojesusmaia@hotmail.com                     |
+| [bold cyan]Linkedin:[/] https://www.linkedin.com/in/marciojesusmaia/  |
+| [bold green]Telefone/Whatsapp:[/] 55 85 98614-9863                     |
+|---------------------------------------------------------|
 
-##############################################''','\n')
+############################################################''','\n')
 input('Pressione < Enter > para prosseguir!')
 os.system('clear')
 
